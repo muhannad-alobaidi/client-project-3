@@ -1,0 +1,13 @@
+
+    
+.container{
+    width: 1080px;
+    height: 100%;
+    position: relative;
+}
+.back{
+position: absolute;
+right: 80.5px;
+top: 119.5px
+}
+   
